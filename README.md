@@ -15,8 +15,7 @@ based off of the users income and marital status. The application would take in 
 output the value of taxable income for the user based on the values provided. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://smk16f.github.io/lesson5_javascript2/. 
 
 ### Lessons Learned in the Assignment:
 1. How to assign values the user enters to variables using the getElementById() function
