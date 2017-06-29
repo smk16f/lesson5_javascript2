@@ -4,20 +4,23 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 29, 2017
 
 ### Student Name:  
-(First and Last Name)
+Stephen Keating
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, the goal was to create a taxable income calculator that had tax bracket information 
+based off of the users income and marital status. The application would take in user input, then 
+output the value of taxable income for the user based on the values provided. 
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to assign values the user enters to variables using the getElementById() function
+2. How to write to the HTML page using the innerHTML property
+3. Observed proper method to construct clear function button. 
+    Had to make sure all variables were addressed so that any values printed to the screen were cleared.
 
